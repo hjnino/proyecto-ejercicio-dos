@@ -1,4 +1,4 @@
-# Ejercicio Uno Repositorio dos.
+# Ejercicio dos Repositorio dos.
 
 
 ## Crear la rama main segundo ejercicio
